@@ -1,0 +1,954 @@
+# Spice Starter Sites
+# Copyright 2022 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Spice Starter Sites "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example.com>\n"
+"POT-Creation-Date: "
+"2026-01-05 13:12+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.8\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/view.php:86
+#: admin/view.php:134
+msgid "Preview"
+msgstr ""
+
+#: admin/view.php:87
+#: admin/view.php:138
+msgid "Install"
+msgstr ""
+
+#: admin/view.php:136
+msgid "Buy Now"
+msgstr ""
+
+#: admin/view.php:179
+msgid ""
+"Demo Import Instructions"
+msgstr ""
+
+#: admin/view.php:183
+msgid ""
+"Spice Starter Sites "
+"Importer is a plugin "
+"that provides a demo "
+"import feature with one "
+"click. Follow "
+"instructions for better "
+"results."
+msgstr ""
+
+#: admin/view.php:187
+msgid ""
+"Start with a fresh or "
+"reset WordPress "
+"installation."
+msgstr ""
+
+#: admin/view.php:188
+msgid ""
+"Install & activate all "
+"recommended plugins."
+msgstr ""
+
+#: admin/view.php:189
+msgid ""
+"Click \"Import Demo Data,"
+"\" and wait for the "
+"success message."
+msgstr ""
+
+#: admin/view.php:190
+msgid ""
+"Do not re-import to "
+"avoid issues; reset "
+"WordPress if re-"
+"importing is necessary."
+msgstr ""
+
+#: admin/view.php:191
+msgid ""
+"Enjoy your new demo site!"
+msgstr ""
+
+#: admin/view.php:193
+msgid "Next"
+msgstr ""
+
+#: admin/view.php:198
+#: spice-starter-sites.php:1545
+msgid ""
+"Spice Starter Sites "
+"Importer"
+msgstr ""
+
+#: admin/view.php:202
+msgid "Sorry!"
+msgstr ""
+
+#: admin/view.php:202
+msgid ""
+" This Theme is not "
+"compatible for this "
+"plugins"
+msgstr ""
+
+#: demo-content/setup.php:22
+msgid "Construction"
+msgstr ""
+
+#: demo-content/setup.php:31
+#: spice-starter-sites.php:930
+msgid "Architect"
+msgstr ""
+
+#: demo-content/setup.php:40
+msgid "Charity"
+msgstr ""
+
+#: demo-content/setup.php:49
+msgid ""
+"Professional Services"
+msgstr ""
+
+#: demo-content/setup.php:58
+msgid "Dental Care"
+msgstr ""
+
+#: demo-content/setup.php:67
+msgid "Digital Marketing"
+msgstr ""
+
+#: demo-content/setup.php:76
+msgid "Modern Agency"
+msgstr ""
+
+#: demo-content/setup.php:85
+msgid "Office"
+msgstr ""
+
+#: demo-content/setup.php:94
+#: spice-starter-sites.php:692
+#: spice-starter-sites.php:767
+#: spice-starter-sites.php:830
+msgid "Business"
+msgstr ""
+
+#: demo-content/setup.php:100
+#: spice-starter-sites.php:436
+msgid "Travel"
+msgstr ""
+
+#: demo-content/setup.php:106
+msgid "Spacare"
+msgstr ""
+
+#: demo-content/setup.php:112
+msgid "Interior"
+msgstr ""
+
+#: demo-content/setup.php:118
+msgid "Real Estate"
+msgstr ""
+
+#: demo-content/setup.php:124
+msgid "Skin Spa"
+msgstr ""
+
+#: demo-content/setup.php:130
+#: spice-starter-sites.php:536
+msgid "Healthcare"
+msgstr ""
+
+#: demo-content/setup.php:136
+msgid "Gymer"
+msgstr ""
+
+#: demo-content/setup.php:142
+msgid "Yoga"
+msgstr ""
+
+#: demo-content/setup.php:148
+msgid "Massage"
+msgstr ""
+
+#: demo-content/setup.php:154
+#: spice-starter-sites.php:424
+#: spice-starter-sites.php:942
+msgid "Finance"
+msgstr ""
+
+#: demo-content/setup.php:160
+msgid "Industry"
+msgstr ""
+
+#: demo-content/setup.php:166
+msgid "Coffee Shop"
+msgstr ""
+
+#: demo-content/setup.php:172
+msgid "Insurance"
+msgstr ""
+
+#: demo-content/setup.php:178
+msgid "Creative Agency"
+msgstr ""
+
+#: demo-content/setup.php:184
+msgid "Adventure"
+msgstr ""
+
+#: demo-content/setup.php:190
+msgid "Carpenter"
+msgstr ""
+
+#: demo-content/setup.php:196
+msgid "Startup Agency"
+msgstr ""
+
+#: demo-content/setup.php:266
+msgid ""
+"One Click Demo Import"
+msgstr ""
+
+#: demo-content/setup.php:267
+msgid "Starter Sites"
+msgstr ""
+
+#: freemius/assets/js/pricing/freemius-pricing.js:2
+msgid "display"
+msgstr ""
+
+#: inc/importer/autoimporter.php:170
+#: inc/importer/autoimporter.php:178
+#: inc/importer/autoimporter.php:252
+#: inc/importer/autoimporter.php:256
+#: inc/importer/autoimporter.php:266
+msgid ""
+"Sorry, there has been an "
+"error."
+msgstr ""
+
+#: inc/importer/autoimporter.php:171
+msgid ""
+"The file does not exist, "
+"please try again."
+msgstr ""
+
+#: inc/importer/autoimporter.php:258
+#, php-format
+msgid ""
+"The export file could "
+"not be found at "
+"<code>%s</code>. It is "
+"likely that this was "
+"caused by a permissions "
+"problem."
+msgstr ""
+
+#: inc/importer/autoimporter.php:275
+#, php-format
+msgid ""
+"This WXR file (version "
+"%s) may not be supported "
+"by this version of the "
+"importer. Please "
+"consider updating."
+msgstr ""
+
+#: inc/importer/autoimporter.php:301
+#, php-format
+msgid ""
+"Failed to import author "
+"%s. Their posts will be "
+"attributed to the "
+"current user."
+msgstr ""
+
+#: inc/importer/autoimporter.php:362
+#, php-format
+msgid ""
+"Failed to create new "
+"user for %s. Their posts "
+"will be attributed to "
+"the current user."
+msgstr ""
+
+#: inc/importer/autoimporter.php:414
+#, php-format
+msgid ""
+"Failed to import "
+"category %s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:455
+#, php-format
+msgid ""
+"Failed to import post "
+"tag %s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:502
+#: inc/importer/autoimporter.php:878
+#, php-format
+msgid ""
+"Failed to import %1$s "
+"%2$s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:529
+#, php-format
+msgid ""
+"Failed to import "
+"&#8220;%1$s&#8221;: "
+"Invalid post type %2$s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:570
+#, php-format
+msgid ""
+"%1$s &#8220;%2$s&#8221; "
+"already exists."
+msgstr ""
+
+#: inc/importer/autoimporter.php:665
+#, php-format
+msgid ""
+"Failed to import %1$s "
+"&#8220;%2$s&#8221;"
+msgstr ""
+
+#: inc/importer/autoimporter.php:964
+msgid ""
+"Menu item skipped due to "
+"missing menu slug"
+msgstr ""
+
+#: inc/importer/autoimporter.php:972
+#, php-format
+msgid ""
+"Menu item skipped due to "
+"invalid menu slug: %s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1048
+msgid ""
+"Fetching attachments is "
+"not enabled"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1061
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1106
+msgid ""
+"Remote server did not "
+"respond"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1113
+#, php-format
+msgid ""
+"Remote server returned "
+"error response %1$d %2$s"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1121
+msgid ""
+"Remote file is incorrect "
+"size"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1126
+msgid ""
+"Zero size file downloaded"
+msgstr ""
+
+#: inc/importer/autoimporter.php:1133
+#, php-format
+msgid ""
+"Remote file is too "
+"large, limit is %s"
+msgstr ""
+
+#: inc/importer/parsers.php:32
+#: inc/importer/parsers.php:33
+#, php-format
+msgid ""
+"Invalid parser "
+"specified: %s"
+msgstr ""
+
+#: inc/importer/parsers.php:73
+#: inc/importer/parsers.php:108
+#: inc/importer/parsers.php:116
+msgid ""
+"There was an error when "
+"reading this WXR file"
+msgstr ""
+
+#: inc/importer/parsers.php:74
+msgid ""
+"Details are shown above. "
+"The importer will now "
+"try again with a "
+"different parser..."
+msgstr ""
+
+#: inc/importer/parsers.php:121
+#: inc/importer/parsers.php:127
+#: inc/importer/parsers.php:498
+#: inc/importer/parsers.php:774
+#: inc/importer/parsers.php:1038
+msgid ""
+"This does not appear to "
+"be a WXR file, missing/"
+"invalid WXR version "
+"number"
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:883
+#, php-format
+msgid ""
+"Call %s to create an XML "
+"Processor instead of "
+"calling the constructor "
+"directly."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:911
+msgid ""
+"Cannot append bytes "
+"after the last input "
+"chunk was provided and "
+"input_finished() was "
+"called."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:1463
+msgid ""
+"Too many bookmarks: "
+"cannot create any more."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:1570
+msgid ""
+"Please pass a query "
+"array to this function."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:1598
+msgid ""
+"Cannot visit tag closers "
+"in XML Processor."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:1614
+msgid ""
+"Breadcrumbs must be an "
+"array of strings or two-"
+"tuples of (namespace, "
+"local name)."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:2670
+msgid ""
+"Unknown bookmark name."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:2680
+msgid ""
+"Too many calls to seek() "
+"- this can lead to "
+"performance issues."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:2857
+#: php-toolkit/XML/class-xmlprocessor.php:2896
+msgid ""
+"Invalid attribute value "
+"encountered."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3363
+msgid ""
+"Invalid text content "
+"encountered."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3412
+msgid ""
+"Cannot set text content "
+"on a non-text node."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3440
+msgid ""
+"Non-string attribute "
+"values cannot be passed "
+"to set_attribute()."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3448
+msgid ""
+"Setting attributes in "
+"the xmlns namespace is "
+"not yet supported by "
+"set_attribute()."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3467
+#, php-format
+msgid ""
+"The namespace \"%1$s\" "
+"is not in the current "
+"element's scope."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3830
+#: php-toolkit/XML/class-xmlprocessor.php:3842
+#, php-format
+msgid ""
+"The closing tag \"%1$s\" "
+"did not match the "
+"opening tag \"%2$s\"."
+msgstr ""
+
+#: php-toolkit/XML/class-xmlprocessor.php:3862
+#, php-format
+msgid ""
+"Unexpected token type "
+"\"%1$s\" in element "
+"stage."
+msgstr ""
+
+#: spice-starter-sites.php:72
+msgid ""
+"Spice Starter Sites "
+"requires PHP 5.4. Please "
+"contact your host to "
+"upgrade your PHP. The "
+"plugin was <strong>not</"
+"strong> activated."
+msgstr ""
+
+#: spice-starter-sites.php:135
+msgid "Newscrunch"
+msgstr ""
+
+#: spice-starter-sites.php:148
+msgid "Politics"
+msgstr ""
+
+#: spice-starter-sites.php:160
+msgid "Architec"
+msgstr ""
+
+#: spice-starter-sites.php:172
+msgid "Biznessify"
+msgstr ""
+
+#: spice-starter-sites.php:186
+msgid "Newscrunch Pro"
+msgstr ""
+
+#: spice-starter-sites.php:198
+msgid "Restaurant"
+msgstr ""
+
+#: spice-starter-sites.php:210
+msgid "Technology"
+msgstr ""
+
+#: spice-starter-sites.php:222
+msgid "True Gamers"
+msgstr ""
+
+#: spice-starter-sites.php:234
+msgid "Busi Crunch"
+msgstr ""
+
+#: spice-starter-sites.php:246
+msgid "Fashion World"
+msgstr ""
+
+#: spice-starter-sites.php:258
+msgid "Life Style"
+msgstr ""
+
+#: spice-starter-sites.php:270
+msgid "Digital"
+msgstr ""
+
+#: spice-starter-sites.php:282
+msgid "Pet Care"
+msgstr ""
+
+#: spice-starter-sites.php:294
+msgid "Sports Mag"
+msgstr ""
+
+#: spice-starter-sites.php:306
+msgid "Fitness Club"
+msgstr ""
+
+#: spice-starter-sites.php:318
+msgid "Photography"
+msgstr ""
+
+#: spice-starter-sites.php:330
+msgid "News Cloud"
+msgstr ""
+
+#: spice-starter-sites.php:342
+msgid "Consulting"
+msgstr ""
+
+#: spice-starter-sites.php:354
+msgid "Trip Travel"
+msgstr ""
+
+#: spice-starter-sites.php:366
+msgid "Architecture"
+msgstr ""
+
+#: spice-starter-sites.php:378
+msgid "Bizsphere"
+msgstr ""
+
+#: spice-starter-sites.php:398
+#: spice-starter-sites.php:668
+#: spice-starter-sites.php:818
+msgid "Default"
+msgstr ""
+
+#: spice-starter-sites.php:411
+msgid "Spice Shop"
+msgstr ""
+
+#: spice-starter-sites.php:448
+msgid "Business News"
+msgstr ""
+
+#: spice-starter-sites.php:462
+#: spice-starter-sites.php:882
+msgid "Default Pro"
+msgstr ""
+
+#: spice-starter-sites.php:474
+msgid "News Shop Pro"
+msgstr ""
+
+#: spice-starter-sites.php:487
+msgid "Spice Shop Pro"
+msgstr ""
+
+#: spice-starter-sites.php:500
+msgid "Flock Games Pro"
+msgstr ""
+
+#: spice-starter-sites.php:512
+msgid "Corporation Pro"
+msgstr ""
+
+#: spice-starter-sites.php:524
+msgid "Creative"
+msgstr ""
+
+#: spice-starter-sites.php:548
+msgid "NewsBlogger Arabic"
+msgstr ""
+
+#: spice-starter-sites.php:560
+msgid "Commercial RTL"
+msgstr ""
+
+#: spice-starter-sites.php:572
+msgid "Biz Buzz"
+msgstr ""
+
+#: spice-starter-sites.php:584
+msgid "Blog Theme"
+msgstr ""
+
+#: spice-starter-sites.php:680
+#: spice-starter-sites.php:755
+msgid "Default Elementor"
+msgstr ""
+
+#: spice-starter-sites.php:704
+#: spice-starter-sites.php:779
+#: spice-starter-sites.php:842
+msgid "Restaurants"
+msgstr ""
+
+#: spice-starter-sites.php:716
+msgid "Default Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:728
+#: spice-starter-sites.php:791
+#: spice-starter-sites.php:854
+msgid "Growkit Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:740
+#: spice-starter-sites.php:803
+#: spice-starter-sites.php:866
+msgid "Building Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:894
+msgid "Corporate"
+msgstr ""
+
+#: spice-starter-sites.php:906
+msgid "Maintenance"
+msgstr ""
+
+#: spice-starter-sites.php:918
+msgid "Education"
+msgstr ""
+
+#: spice-starter-sites.php:954
+msgid ""
+"Default Pro Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:966
+msgid "Business Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:978
+msgid "Corporate Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:990
+msgid ""
+"Digital Agency Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:1002
+msgid ""
+"Architecture Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:1022
+msgid ""
+"SpicePress Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:1034
+msgid "Spice Bussiness"
+msgstr ""
+
+#: spice-starter-sites.php:1050
+msgid ""
+"SpicePress Pro Gutenberg"
+msgstr ""
+
+#: spice-starter-sites.php:1062
+msgid "Spice Tech Pro"
+msgstr ""
+
+#: spice-starter-sites.php:1089
+#: spice-starter-sites.php:1090
+#: spice-starter-sites.php:1101
+#: spice-starter-sites.php:1102
+#: spice-starter-sites.php:1112
+#: spice-starter-sites.php:1113
+#: spice-starter-sites.php:1125
+#: spice-starter-sites.php:1126
+#: spice-starter-sites.php:1137
+#: spice-starter-sites.php:1138
+#: spice-starter-sites.php:1148
+#: spice-starter-sites.php:1149
+#: spice-starter-sites.php:1169
+#: spice-starter-sites.php:1170
+#: spice-starter-sites.php:1193
+#: spice-starter-sites.php:1194
+msgid "Demo Import"
+msgstr ""
+
+#: spice-starter-sites.php:1270
+msgid ""
+"Import file could not be "
+"found. Please try again."
+msgstr ""
+
+#: spice-starter-sites.php:1295
+msgid ""
+"Import data is invalid."
+msgstr ""
+
+#: spice-starter-sites.php:1336
+#: spice-starter-sites.php:1358
+msgid "error"
+msgstr ""
+
+#: spice-starter-sites.php:1337
+msgid ""
+"Widget area does not "
+"exist in theme (using "
+"Inactive)"
+msgstr ""
+
+#: spice-starter-sites.php:1359
+msgid ""
+"Site does not support "
+"widget"
+msgstr ""
+
+#: spice-starter-sites.php:1391
+#: spice-starter-sites.php:1470
+msgid "warning"
+msgstr ""
+
+#: spice-starter-sites.php:1394
+msgid ""
+"Widget already exists"
+msgstr ""
+
+#: spice-starter-sites.php:1467
+msgid "success"
+msgstr ""
+
+#: spice-starter-sites.php:1468
+msgid "Imported"
+msgstr ""
+
+#: spice-starter-sites.php:1471
+msgid ""
+"Imported to Inactive"
+msgstr ""
+
+#: spice-starter-sites.php:1477
+msgid "No Title"
+msgstr ""
+
+#: spice-starter-sites.php:1566
+#, php-format
+msgid "Theme: %s"
+msgstr ""
+
+#: spice-starter-sites.php:1636
+msgid ""
+"Recommended Plugins:"
+msgstr ""
+
+#: spice-starter-sites.php:1719
+msgid "Import Again"
+msgstr ""
+
+#: spice-starter-sites.php:1721
+msgid "Import Demo Data"
+msgstr ""
+
+#: spice-starter-sites.php:1729
+#: spice-starter-sites.php:1732
+#: spice-starter-sites.php:1735
+#: spice-starter-sites.php:1738
+msgid "Back"
+msgstr ""
+
+#: spice-starter-sites.php:1753
+msgid ""
+"Don't Refresh the Page . "
+"It may take a few "
+"minutes, Please Wait..."
+msgstr ""
+
+#: spice-starter-sites.php:1759
+msgid "Success!"
+msgstr ""
+
+#: spice-starter-sites.php:1760
+msgid ""
+"The import process has "
+"been successful. Go to "
+"visit the site and Enjoy "
+"the theme."
+msgstr ""
+
+#: spice-starter-sites.php:1761
+msgid "Visit Site"
+msgstr ""
+
+#: spice-starter-sites.php:1886
+msgid ""
+"Are you sure want to "
+"import demo content ?"
+msgstr ""
+
+#: spice-starter-sites.php:1888
+msgid "Yes"
+msgstr ""
+
+#: spice-starter-sites.php:1889
+msgid "No"
+msgstr ""
+
+#: spice-starter-sites.php:1937
+msgid ""
+"Unable to initialize "
+"WP_Filesystem."
+msgstr ""
+
+#: spice-starter-sites.php:1960
+msgid ""
+"Failed to fetch the file."
+msgstr ""
+
+#: spice-starter-sites.php:1968
+msgid ""
+"Downloaded file content "
+"is empty."
+msgstr ""
+
+#: spice-starter-sites.php:1973
+#: spice-starter-sites.php:2008
+msgid ""
+"Failed to write file."
+msgstr ""
+
+#: spice-starter-sites.php:1995
+#, php-format
+msgid ""
+"Failed to fetch file: %s"
+msgstr ""
+
+#: spice-starter-sites.php:2003
+msgid ""
+"Downloaded file is empty."
+msgstr ""
